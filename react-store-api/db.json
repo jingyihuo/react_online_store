@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Heart",
+      "image": "/images/1.png",
+      "tags": "25 Colors",
+      "price": "59440",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Paw",
+      "price": "53800",
+      "tags": "25 Colors",
+      "image": "/images/2.png",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "Cupcake",
+      "image": "/images/3.png",
+      "tags": "16 Colors",
+      "price": "48900",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Beach",
+      "price": "13148",
+      "tags": "18 Colors",
+      "image": "/images/4.png",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "Lion",
+      "image": "/images/5.png",
+      "tags": "34 Colors",
+      "price": "46900",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Horse",
+      "price": "80391",
+      "tags": "26 Colors",
+      "image": "/images/6.png",
+      "status": "unavailable"
+    },
+    {
+      "id": 7,
+      "name": "Sunflower",
+      "image": "/images/7.png",
+      "tags": "",
+      "price": "54600",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Cat",
+      "image": "/images/8.png",
+      "tags": "",
+      "price": "81800",
+      "status": "available"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 4,
+      "name": "Nike Air Foamposite One",
+      "image": "/images/4.png",
+      "price": "73148",
+      "mount": 5,
+      "id": 1
+    },
+    {
+      "productId": 5,
+      "name": "Lion",
+      "image": "/images/5.png",
+      "price": "46900",
+      "mount": 2,
+      "userId": "test@gmail.com",
+      "id": 2
+    },
+    {
+      "productId": 2,
+      "name": "Paw",
+      "image": "/images/2.png",
+      "price": "53800",
+      "mount": 1,
+      "userId": "test@gmail.com",
+      "id": 3
+    },
+    {
+      "productId": 8,
+      "name": "Cat",
+      "image": "/images/8.png",
+      "price": "81800",
+      "mount": 1,
+      "userId": "test@gmail.com",
+      "id": 6
+    }
+  ]
+}
